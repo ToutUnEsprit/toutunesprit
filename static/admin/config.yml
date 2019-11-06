@@ -1,0 +1,66 @@
+backend:
+  name: github
+  repo: Ephyrass/toutunesprit
+media_folder: static/assets
+public_folder: assets
+collections:
+  - name: Contenu
+    label: Contenu
+    folder: "/src/content"
+    create: true
+    fields:
+      - { name: title, label: Titre }
+      - { name: categorie, label: Catégorie , widget: "select",
+          options:
+            [
+              "Thé",
+              "Café",
+              "Infusion",
+              "Accessoire",
+              "Épicerie",
+              
+            ]}
+      - { name: img, label: Image (lien), , required: false,}
+      - { name: img, label: Image, widget: "image", required: false,}
+      - {
+          name: sous-categorie,
+          label: Sous-Catégorie,
+          multipe: true,
+          , widget: "select", required: false,
+          options:
+            [
+              "Thé vert",
+              "Thé noir",
+              "Thé blanc",
+              "Thé mixte",
+              "Roiboos",
+              "Oolong",
+              "Café",
+              "Infusion",
+              "Autre"
+            ],
+        }
+      - { name: description, label: Description }
+      - { name: composition, label: Composition , required: false,}
+      - { name: temps, label: Temps d'infusion , required: false,}
+      - { name: degree, label: Température d'infusion,  required: false, widget: "select",
+          options:
+            [
+              "70°C",
+              "75°C",
+              "80°C",
+              "85°C",
+              "90°C",
+              "95°C",
+              "100°C"
+            ]}
+      - { name: time, label: Quand le déguster, widget: "select" ,required: false,
+          options:
+            [
+              "Matin",
+              "Après-Midi",
+              "Soir",
+              "Toute la journée",
+              "Matin, Après-midi",
+              
+            ]}

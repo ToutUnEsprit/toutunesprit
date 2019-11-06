@@ -1,0 +1,161 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Merriweather", serif;
+}
+body {
+  background-color: #fffdf6;
+}
+h4 {
+  font-size: 28px;
+  text-shadow: 1px 1px 1px black;
+}
+.row h2 {
+  width: 100%;
+}
+/* Header Component */
+.navbar {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
+.nav-item a {
+  color: black;
+  text-decoration: none;
+  padding: 0 0.5rem;
+  font-size: 18px;
+}
+.navbar li {
+  padding: 0 0.9rem;
+}
+.nav-item a:hover {
+  color: lightgrey;
+}
+.nav-item a:active {
+  background-color: lightgray;
+}
+
+.dropdown-menu a:hover {
+  color: #890909;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+nav hr {
+  border-top: 1px solid black;
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  color: #890909;
+  font-size: 28px;
+}
+
+hr {
+  border-top: 3px solid #890909;
+  width: 30%;
+  margin: auto;
+}
+
+/*Slider*/
+
+.carousel-inner {
+  border-radius: 10px;
+  margin-top: 5%;
+
+  box-shadow: 0px 10px 10px #5d7161;
+}
+.carousel-caption p {
+  font-size: 18px;
+}
+
+/*Discover Section*/
+h3 {
+  text-align: center;
+  color: #7f8a6c;
+  text-decoration: none;
+}
+
+.card {
+  border-radius: 0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border: 0.2px solid black;
+  padding: 10% 0;
+}
+.card:hover {
+  opacity: 0.8;
+}
+
+.card hr {
+  padding: 0;
+  margin: auto;
+  margin-top: 0;
+  border: 1px solid #716565;
+  width: 20%;
+}
+a:hover {
+  text-decoration: none;
+}
+
+/* About Section*/
+
+.about-content {
+  background-color: #890909;
+  color: white;
+  text-align: center;
+  padding: 3%;
+  border-radius: 10px;
+}
+.about-content p {
+  font-size: 20px;
+}
+
+/*Item Card*/
+.card {
+  border: none;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.25);
+}
+
+.card .btn {
+  margin-top: 10%;
+  border: 1px solid #890909;
+  background-color: #890909;
+  width: 100%;
+  border-radius: 0;
+}
+.card-text {
+  text-align: center;
+  font-size: 14px;
+  color: #5d7161;
+}
+h5 {
+  text-align: center;
+  font-size: 24px;
+}
+
+.btn:focus,
+.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
+.contact {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 30px;
+  border-radius: 10px;
+  padding: 1%;
+  background-color: #890909;
+}
+.contact p {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+  .card {
+    margin-bottom: 5%;
+  }
+  .contact p {
+    text-align: center;
+  }
+}
