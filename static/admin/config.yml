@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Ephyrass/toutunesprit
+  repo: ToutUnEsprit/toutunesprit
 media_folder: static/assets
 public_folder: assets
 collections:
