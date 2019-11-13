@@ -4,7 +4,7 @@ import SEO from "../components/seo"
 import { graphql } from "gatsby"
 import ItemCard from "../components/itemCard"
 
-const MixtTea = ({ data }) => {
+const SmokeTea = ({ data }) => {
   return (
     <Layout>
       <SEO title="Thé mixte" />
@@ -15,7 +15,7 @@ const MixtTea = ({ data }) => {
         <br />
         <div className="row">
           {data.allMarkdownRemark.totalCount === 0 ? (
-            <h2> Il n'y a pas encore de Thé mixte</h2>
+            <h2> Il n'y a pas encore de Thé fumé</h2>
           ) : (
             data.allMarkdownRemark.edges.map(({ node }) => (
               <ItemCard
@@ -33,12 +33,12 @@ const MixtTea = ({ data }) => {
   )
 }
 
-export default MixtTea
+export default SmokeTea
 
 export const query = graphql`
   query {
     allMarkdownRemark(
-      filter: { frontmatter: { sous_categorie: { eq: "Thé blend" } } }
+      filter: { frontmatter: { sous_categorie: { eq: "Thé fumé" } } }
     ) {
       totalCount
       edges {

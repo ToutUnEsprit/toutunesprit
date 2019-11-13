@@ -87,7 +87,11 @@ const Header = ({ siteTitle }) => (
                   </Link>
                   <div className="dropdown-divider"></div>
                   <Link className="dropdown-item" to="/mixtTea">
-                    Thés Mixtes
+                    Thés Blends
+                  </Link>
+                  <div className="dropdown-divider"></div>
+                  <Link className="dropdown-item" to="/smokeTea">
+                    Thés Fumés
                   </Link>
                   <div className="dropdown-divider"></div>
                   <Link className="dropdown-item" to="/roiboos">
