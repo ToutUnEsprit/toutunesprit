@@ -20,7 +20,7 @@ collections:
               "Épicerie",
               
             ]}
-      - { name: img, label: Image (lien), , required: false,}
+      - { name: img, label: Image (lien)}
       - { name: img, label: Image, widget: "image", required: false,}
       - {
           name: sous-categorie,
