@@ -19,7 +19,7 @@ function SEO({ description, lang, meta, title, contentSEO }) {
             title
             description
             author
-            contentSeo
+            contentSEO
           }
         }
       }
