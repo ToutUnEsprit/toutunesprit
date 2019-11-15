@@ -3,6 +3,7 @@ module.exports = {
     title: `Tout un esprit`,
     description: `Tout un esprit `,
     author: `Tout un esprit`,
+    content:'8C3-7d5IrSapSz8oRqrpCDYKm5rH5xDCuJRkdrmsa8'
   },
   plugins: [
     {
