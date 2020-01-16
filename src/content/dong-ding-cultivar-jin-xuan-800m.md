@@ -1,5 +1,5 @@
 ---
-title: 'DONG DING (Cultivar: Jin Xuan (800m))'
+title: 'DONG DING , Cultivar: Jin Xuan (800m). (Formose)'
 categorie: Thé
 sous-categorie: Oolong
 description: >-
