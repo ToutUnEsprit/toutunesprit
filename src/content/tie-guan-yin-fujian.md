@@ -1,5 +1,5 @@
 ---
-title: TIE GUAN YIN (Fujian)
+title: TIE GUAN YIN (Fujian/Chine)
 categorie: Thé
 sous-categorie: Oolong
 description: Un thé au parfum doux et fleuri
