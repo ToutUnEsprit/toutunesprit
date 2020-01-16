@@ -1,5 +1,5 @@
 ---
-title: GRAND FOOCHOW POINTES BLANCHES
+title: GRAND FOOCHOW POINTES BLANCHES (Chine)
 categorie: Thé
 sous-categorie: Thé fumé
 description: >-
