@@ -8,13 +8,13 @@ const Roiboos = ({ data }) => {
     <Layout>
       <div>
         <SEO title="Roiboos" />
-        <h2>Roiboos</h2>
+        <h2>Rooibos</h2>
         <hr />
         <br />
         <br />
         <div className="row">
           {data.allMarkdownRemark.totalCount === 0 ? (
-            <h2> Il n'y a pas encore de Roiboos</h2>
+            <h2> Il n'y a pas encore de Rooibos</h2>
           ) : (
             data.allMarkdownRemark.edges.map(({ node }) => (
               <ItemCard

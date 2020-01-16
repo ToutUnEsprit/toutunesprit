@@ -34,7 +34,7 @@ collections:
               "Thé blanc",
               "Thé fumé",
               "Thé blend",
-              "Roiboos",
+              "Rooibos",
               "Oolong",
               "Café",
               "Infusion",
@@ -46,7 +46,7 @@ collections:
       - { name: temps, label: Temps d'infusion , required: false,}
       - { name: degree, label: Température d'infusion,  required: false, widget: "select",
           options:
-            [
+          [ "65°C",
               "70°C",
               "75°C",
               "80°C",

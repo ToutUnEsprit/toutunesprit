@@ -19,7 +19,6 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
-            contentSEO
           }
         }
       }
@@ -67,10 +66,6 @@ function SEO({ description, lang, meta, title }) {
         {
           name: `twitter:description`,
           content: metaDescription,
-        },
-        {
-          name: `google-site-verification`,
-          content: contentSEO,
         },
       ].concat(meta)}
     />

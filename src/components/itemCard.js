@@ -18,10 +18,24 @@ const ItemCard = ({ cardTitle, cardText, cardImg, cardLink }) => {
           }}
         />
         <div className="card-body">
-          <h5 className="card-title" style={{ height: "70px" }}>
+          <h5
+            className="card-title"
+            style={{
+              height: "60px",
+              overflow: "hidden",
+              textOverflow: "ellipsis",
+            }}
+          >
             {cardTitle}
           </h5>
-          <p className="card-text" style={{ height: "40px" }}>
+          <p
+            className="card-text"
+            style={{
+              height: "40px",
+              overflow: "hidden",
+              textOverflow: "ellipsis",
+            }}
+          >
             {cardText}
           </p>
           <Link
