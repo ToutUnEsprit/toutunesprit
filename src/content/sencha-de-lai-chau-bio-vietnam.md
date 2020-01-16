@@ -1,5 +1,5 @@
 ---
-title: SENCHA DE LAI CHAU BIO (Vietnam)
+title: 'SENCHA DE LAI CHAU (1000m d''altitude en moyenne), BIO (Vietnam)'
 categorie: Thé
 sous-categorie: Thé vert
 description: >-
