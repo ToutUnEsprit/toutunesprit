@@ -1,5 +1,5 @@
 ---
-title: 'KEEMUN FOP, BIO'
+title: 'KEEMUN FOP, BIO (Anhui, Chine)'
 categorie: Thé
 sous-categorie: Thé noir
 description: 'Notes boisées, de chocolat et de rose'
