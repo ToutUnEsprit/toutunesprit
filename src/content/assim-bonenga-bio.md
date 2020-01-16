@@ -1,5 +1,5 @@
 ---
-title: 'ASSIM BONENGA, BIO'
+title: 'ASSIM BONENGA, BIO (Afrique du Sud)'
 categorie: Thé
 sous-categorie: Roiboos
 description: >-
