@@ -1,5 +1,5 @@
 ---
-title: 'GRAND OOLONG FANCY (Cultivar : Qing Xin (600m))'
+title: 'GRAND OOLONG FANCY, Cultivar : Qing Xin (600m). (Formose)'
 categorie: Thé
 sous-categorie: Oolong
 description: Notes de fruits mûrs et de miel
