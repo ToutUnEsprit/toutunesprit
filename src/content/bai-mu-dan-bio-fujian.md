@@ -1,10 +1,10 @@
 ---
-title: 'BAI MU DAN, BIO (Fujian)'
+title: 'BAI MU DAN, BIO (Fujian/Chine)'
 categorie: Thé
 sous-categorie: Thé blanc
-description: Notes de raison mûr et d'herbe coupée
+description: Notes de raisin mûr et d'herbe coupée
 temps: 5-7 mn
-degree: 70°C
+degree: 65°C
 time: Toute la journée
 ---
 
