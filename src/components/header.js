@@ -95,7 +95,7 @@ const Header = ({ siteTitle }) => (
                   </Link>
                   <div className="dropdown-divider"></div>
                   <Link className="dropdown-item" to="/roiboos">
-                    Roiboos
+                    Rooibos
                   </Link>
                   <div className="dropdown-divider"></div>
                   <Link className="dropdown-item" to="/oolong">
