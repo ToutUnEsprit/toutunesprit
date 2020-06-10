@@ -11,7 +11,7 @@ description: >-
   et le parc national de Nyungwe abritent une faune et une flore variées et
   riches. La tasse offre une attaque franche, puissante et vive et des notes
   sauvages. Un café de caractère!
-composition: '100% ARABICA,  certifié Biologique FR-BIO-01'
+composition: '100% ARABICA,  Café certifié Biologique FR-BIO-01 '
 time: 'Matin, Après-midi'
 ---
 
