@@ -10,7 +10,7 @@ description: >-
   la terre riche en matières organiques. Cette tasse est ronde, équilibrée, très
   onctueuse. Tonalités gourmandes d’agrumes et fruits secs. Parfum surprenant,
   avec une belle longueur. 
-composition: '100% ARABICA,  certifié Biologique FR-BIO-01 '
+composition: '100% ARABICA, Café certifié Biologique FR-BIO-01 '
 time: 'Matin, Après-midi'
 ---
 
