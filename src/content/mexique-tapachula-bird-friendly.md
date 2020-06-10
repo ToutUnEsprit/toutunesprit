@@ -12,7 +12,7 @@ description: >-
   culture biologique, et implique également la préservation de forêts dans
   lesquelles les oiseaux et d’autres espèces animales peuvent trouver refuge.
   Equilibré, de belles saveurs, un café exceptionnel!
-composition: '100% ARABICA,  certifié Biologique FR-BIO-01 '
+composition: '100% ARABICA, Café certifié Biologique FR-BIO-01 '
 time: 'Matin, Après-midi'
 ---
 
