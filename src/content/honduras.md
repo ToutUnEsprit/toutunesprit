@@ -12,7 +12,7 @@ description: >-
   biodiversité et au climat), la sécurité, mais aussi la santé des travailleurs.
   C’est un café offrant une agréable acidité et une belle finesse, la tasse est
   douce et suave.
-composition: 100% ARABICA. Issu de l'agriculture biologique.
+composition: '100% ARABICA,  certifié Biologique FR-BIO-01 '
 time: Toute la journée
 ---
 
