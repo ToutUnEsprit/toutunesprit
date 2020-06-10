@@ -1,6 +1,7 @@
 ---
 title: 'GAYO MOUNTAIN SUMATRA, INDONESIE, BIO'
 categorie: Café
+img: /assets/coffee.jpg
 sous-categorie: Café
 description: >-
   Ce café est réputé pour son goût remarquable. Sans acidité. Pour les amateurs
