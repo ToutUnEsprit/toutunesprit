@@ -1,6 +1,7 @@
 ---
 title: HONDURAS
 categorie: Café
+img: /assets/coffee.jpg
 sous-categorie: Café
 description: >-
   Le café est cultivé dans l’Ouest du Honduras principalement dans les régions
