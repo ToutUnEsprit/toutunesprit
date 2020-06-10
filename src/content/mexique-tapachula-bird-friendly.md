@@ -1,6 +1,7 @@
 ---
 title: MEXIQUE TAPACHULA Bird Friendly
 categorie: Café
+img: /assets/coffee.jpg
 sous-categorie: Café
 description: >-
   Cultivé à l’extrême sud-ouest de la Sierra Madré du Chiapas, sur des hauts
