@@ -1,5 +1,5 @@
 ---
-title: MEXIQUE TAPACHULA Bird Friendly
+title: 'MEXIQUE TAPACHULA Bird Friendly, BIO'
 categorie: Café
 img: /assets/coffee.jpg
 sous-categorie: Café
