@@ -1,5 +1,5 @@
 ---
-title: BOSTON 1773 (Assam-Kenya-Yunnan)
+title: BOSTON 1773
 categorie: Thé
 img: /assets/boston-1773.jpg
 sous-categorie: Thé noir
