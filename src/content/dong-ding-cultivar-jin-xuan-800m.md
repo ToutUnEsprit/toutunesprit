@@ -1,6 +1,7 @@
 ---
 title: DONG DING (Formose)
 categorie: Thé
+img: /assets/wu-long.jpg
 sous-categorie: Oolong
 description: >-
   Thé aux notes fleuries (jasmin et osmanthus) avec une longueur en bouche
