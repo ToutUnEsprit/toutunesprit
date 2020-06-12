@@ -1,5 +1,5 @@
 ---
-title: MELANGE MAISON
+title: 'MELANGE MAISON, BIO'
 categorie: Café
 img: /assets/coffee.jpg
 sous-categorie: Café
