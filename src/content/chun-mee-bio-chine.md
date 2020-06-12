@@ -1,6 +1,7 @@
 ---
-title: 'CHUN MEE, BIO (Chine)'
+title: 'CHUN MEE, BIO'
 categorie: Thé
+img: /assets/chun-mee-bio.jpg
 sous-categorie: Thé vert
 description: >-
   Beau thé vert de Chine. Chun Mee signifie "sourcils de viel homme". Un thé aux
