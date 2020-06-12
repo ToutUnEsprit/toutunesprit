@@ -1,6 +1,7 @@
 ---
 title: 'BAÏKAL, BIO (Chine-Inde)'
 categorie: Thé
+img: /assets/noir.jpg
 sous-categorie: Thé noir
 description: >-
   Mélange à la russe. La mandarine vient adoucir ce mélange d'agrumes. Un vrai
