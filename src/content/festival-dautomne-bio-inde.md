@@ -1,9 +1,10 @@
 ---
-title: 'FESTIVAL D''AUTOMNE, BIO (Inde)'
+title: 'FESTIVAL D''AUTOMNE, BIO'
 categorie: Thé
+img: /assets/noir.jpg
 sous-categorie: Thé noir
-description: Gourmand!
-composition: 'Kiwi, coing, poire, caramel et morceaux de pommes'
+description: Un thé réconfortant et gourmand à souhait!
+composition: 'Thé noir d''Inde, kiwi, coing, poire, caramel et morceaux de pomme.'
 temps: 3-5 mn
 degree: 95°C
 time: Après-Midi
