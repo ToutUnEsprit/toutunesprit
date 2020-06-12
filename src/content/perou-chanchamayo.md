@@ -1,5 +1,5 @@
 ---
-title: PEROU CHANCHAMAYO
+title: 'PEROU CHANCHAMAYO, BIO'
 categorie: Café
 img: /assets/coffee.jpg
 sous-categorie: Café
