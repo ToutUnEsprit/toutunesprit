@@ -1,6 +1,7 @@
 ---
-title: GRAND FOOCHOW POINTES BLANCHES (Chine)
+title: GRAND FOOCHOW POINTES BLANCHES
 categorie: Thé
+img: /assets/grand-foochow-pointes-blanches.jpg
 sous-categorie: Thé fumé
 description: >-
   Se déguste sans lait, de préférence l'après-midi et accompagne très bien un
