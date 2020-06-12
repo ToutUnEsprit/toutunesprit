@@ -1,5 +1,5 @@
 ---
-title: 'NICARAGUA '
+title: 'NICARAGUA, BIO'
 categorie: Café
 img: /assets/coffee.jpg
 sous-categorie: Café
