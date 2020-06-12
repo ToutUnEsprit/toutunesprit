@@ -1,5 +1,5 @@
 ---
-title: 'BAI MU DAN, BIO (Fujian/Chine)'
+title: BAI MU DAN Bio
 categorie: Thé
 img: /assets/thé-blanc.jpg
 sous-categorie: Thé blanc
