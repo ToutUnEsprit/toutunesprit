@@ -1,11 +1,12 @@
 ---
-title: 'ETOILES DES NEIGES, BIO (Chine)'
+title: 'ETOILES DES NEIGES, BIO'
 categorie: Thé
+img: /assets/etoile-des-neiges-bio.jpg
 sous-categorie: Thé noir
-description: Surprenant!
+description: Délicieusement surprenant!
 composition: >-
-  Ecorces d'orange, vanille, orange amère, morceaux de cardamome et clous de
-  girofle.
+  Thé noir de Chine, écorces d'oranges, vanille, orange amère, morceaux de
+  cardamome et clous de girofle.
 temps: 3-5 mn
 degree: 95°C
 time: Toute la journée
