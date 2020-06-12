@@ -1,5 +1,5 @@
 ---
-title: COLOMBIE
+title: COLOMBIE BIO
 categorie: Café
 img: /assets/coffee.jpg
 sous-categorie: Café
