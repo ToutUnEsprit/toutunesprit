@@ -1,5 +1,5 @@
 ---
-title: BAI MU DAN Bio
+title: 'BAI MU DAN, BIO'
 categorie: Thé
 img: /assets/thé-blanc.jpg
 sous-categorie: Thé blanc
@@ -11,7 +11,9 @@ description: >-
   antioxydants supérieure à celle du thé vert. Notes de raisin mûr et d'herbe
   coupée. Thé d'une grande limpidité, cristallin et très désaltèrant, à déguster
   aussi bien chaud que froid.
-composition: Thé de Fujian.
+composition: >-
+  Thé de Fujian.  Produit(s) issu(s) de l'agriculture biologique et certifié(s)
+  par FR-BIO-01.
 temps: 7 à 20 min
 degree: 65°C
 time: Toute la journée
