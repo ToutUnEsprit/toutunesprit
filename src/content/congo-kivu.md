@@ -1,5 +1,5 @@
 ---
-title: CONGO KIVU
+title: 'CONGO KIVU, BIO'
 categorie: Café
 img: /assets/coffee.jpg
 sous-categorie: Café
