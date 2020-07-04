@@ -1,5 +1,5 @@
 ---
-title: 'Tasse "personnage", japon'
+title: 'Tasse "personnage", Japon'
 categorie: Accessoire
 img: /assets/80019094_162528881783507_6442020412183281664_n.jpg
 sous-categorie: Autre
