@@ -1,5 +1,5 @@
 ---
-title: 'Mug fleurs bleues, Japon'
+title: 'Mug feuilles bleues, Japon'
 categorie: Accessoire
 img: /assets/79442020_162527058450356_1347606238921228288_n.jpg
 sous-categorie: Autre
