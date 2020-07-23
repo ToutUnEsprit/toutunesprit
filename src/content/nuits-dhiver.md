@@ -1,6 +1,7 @@
 ---
 title: NUITS D'HIVER
 categorie: Infusion
+img: /assets/infusions-f.jpg
 sous-categorie: Infusion
 description: >-
   Cette infusion offre de la douceur et de la gourmandise. A boire chaud ou
