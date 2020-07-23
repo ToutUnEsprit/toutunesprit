@@ -1,6 +1,7 @@
 ---
 title: SAMARCANDE
 categorie: Infusion
+img: /assets/infusions-f.jpg
 sous-categorie: Infusion
 description: Une fantaisie fruitée qui ravira les papilles!
 composition: >-
