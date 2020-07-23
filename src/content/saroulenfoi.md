@@ -1,5 +1,5 @@
 ---
-title: SAROULENFOI
+title: 'SAROULENFOI  (tisane BIO fabriquée à Tourzel-Ronzières, Puy-de-Dôme)'
 categorie: Infusion
 img: /assets/72424375_138261947543534_8259814343248445440_o.jpg
 sous-categorie: Infusion
