@@ -1,7 +1,7 @@
 ---
 title: LA SOURCE DES MAORIS
 categorie: Infusion
-img: /assets/douceurs-france.jpg
+img: /assets/infusions-f.jpg
 sous-categorie: Infusion
 description: Une infusion désaltérante et légèrement acidulée. A déguster chaude ou glacée!
 composition: >-
