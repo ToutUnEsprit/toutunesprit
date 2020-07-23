@@ -7,7 +7,7 @@ composition: >-
   Eglantier, morceaux de pommes, menthe douce, anis, maté vert, réglisse,
   ananas, clous de girofle, cannelle, vanille, fraises, miel, pétales de soucis,
   bleuet, carthame.
-temps: 5/10 min
+temps: 5 min
 degree: 95°C
 time: Toute la journée
 ---
