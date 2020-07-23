@@ -8,7 +8,7 @@ description: >-
 composition: >-
   Morceaux de pommes, fleurs d'hibiscus, écorces d'oranges, morceaux de pêches,
   écorces d'églantier, vanille, pétales de tournesols.
-temps: 5/10 min
+temps: 5 min
 degree: 95°C
 time: Toute la journée
 ---
