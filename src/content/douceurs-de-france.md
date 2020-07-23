@@ -1,7 +1,7 @@
 ---
 title: DOUCEURS DE FRANCE
 categorie: Infusion
-img: /assets/infusions-f.jpg
+img: /assets/douceurs-france.jpg
 sous-categorie: Infusion
 description: Une infusion fruitée qui se déguste aussi bien chaude que glacée!
 composition: >-
