@@ -1,6 +1,7 @@
 ---
 title: MELANGE BERBERE ASSIREM
 categorie: Infusion
+img: /assets/infusions-f.jpg
 sous-categorie: Infusion
 description: Une fantaisie fruitée originale et délicieuse!
 composition: >-
