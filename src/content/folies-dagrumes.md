@@ -1,6 +1,7 @@
 ---
 title: FOLIES D'AGRUMES
 categorie: Infusion
+img: /assets/a..jpg
 sous-categorie: Infusion
 description: Une infusion acidulée à déguster aussi bien chaude que glacée!
 composition: >-
