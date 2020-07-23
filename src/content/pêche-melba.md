@@ -1,6 +1,7 @@
 ---
 title: PÊCHE MELBA
 categorie: Infusion
+img: /assets/infusions-f.jpg
 sous-categorie: Infusion
 description: >-
   Un mélange délicieusement harmonieux de morceaux de pêches juteuses et de
