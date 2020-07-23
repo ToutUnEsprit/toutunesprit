@@ -1,6 +1,7 @@
 ---
 title: 'BORA BORA '
 categorie: Infusion
+img: /assets/infusions-f.jpg
 sous-categorie: Infusion
 description: Une infusion fruitée qui se déguste aussi bien chaude que glacée!
 composition: 'Ecorces d''oranges, morceaux de pommes et ananas, pétales de soucis.'
