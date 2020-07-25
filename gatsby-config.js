@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Tout un esprit`,
-    description: `Tout un esprit `,
-    author: `Tout un esprit`,
+    title: `Tout un Esprit`,
+    description: `Tout un Esprit `,
+    author: `Tout un Esprit`,
   },
   plugins: [
     {

@@ -13,7 +13,7 @@ const AboutSection = () => {
           Clermont-Ferrand il y a un peu plus de 18 ans… <br />
           <br /> Une centaine de thés en vrac (pures origines, blends,
           aromatisés ou natures) et une sélection issue de l’agriculture
-          biologique. Des infusions, Rooïbos et maté… Des cafés 100% Arabica et
+          biologique. Des infusions, Rooibos et maté… Des cafés 100% Arabica et
           BIO. <br /> <br /> Des gourmandises de producteurs locaux ainsi que de
           la vaisselle et des accessoires. "
         </p>
