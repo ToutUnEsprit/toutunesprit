@@ -10,13 +10,13 @@ const Infusion = ({ data }) => {
       <div>
         <SEO title="Infusion" />
 
-        <h2>Tisane</h2>
+        <h2>Tisanes</h2>
         <hr />
         <br />
         <br />
         <div className="row">
           {data.allMarkdownRemark.totalCount === 0 ? (
-            <h2> Il n'y a pas encore de Tisane</h2>
+            <h2> Il n'y a pas encore de Tisanes</h2>
           ) : (
             data.allMarkdownRemark.edges.map(({ node }) => (
               <ItemCard
