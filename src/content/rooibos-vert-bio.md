@@ -1,6 +1,6 @@
 ---
 title: 'ROOIBOS VERT, BIO'
-categorie: Infusion
+categorie: Thé
 img: /assets/87224017_197889584914103_4633366283193155584_n.jpg
 sous-categorie: Rooibos
 description: >-
