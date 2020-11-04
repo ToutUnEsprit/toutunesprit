@@ -1,6 +1,7 @@
 ---
 title: SENCHA MAKOTO (Japon)
 categorie: Thé
+img: /assets/makoto.jpg
 sous-categorie: Thé vert
 description: >-
   Thé vert de première qualité à la saveur nuancée. Ce sencha a des feuilles
