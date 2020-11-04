@@ -1,6 +1,7 @@
 ---
 title: GREEN CURLS (Ceylan)
 categorie: Thé
+img: /assets/green-curls.jpg
 sous-categorie: Thé vert
 description: >-
   Thé aux feuilles torsadées qui dévoile des notes de terroir et végétales.
