@@ -5,7 +5,7 @@ img: /assets/croquandise.jpg
 sous-categorie: Thé noir
 description: >-
   Un mélange croquant et craquant qui rappelle les épices des Spéculoos. Le thé
-  pour les gourmand(e)s! 
+  PARFAIT pour les gourmand(e)s! 
 composition: >-
   Thé noir,  morceaux de gingembre, graines de cardamome coupées, morceaux de
   cannelle.
