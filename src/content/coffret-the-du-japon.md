@@ -1,5 +1,5 @@
 ---
-title: COFFRET THE DU JAPON
+title: COFFRET THE (JAPON)
 categorie: Accessoire
 img: /assets/coffret-j.jpg
 sous-categorie: Autre
