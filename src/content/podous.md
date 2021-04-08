@@ -1,5 +1,5 @@
 ---
-title: PODOUS'
+title: 'PODOUS'' (tisane BIO fabriquée à Tourzel-Ronzières, Puy-de-Dôme)'
 categorie: Infusion
 img: /assets/podous.jpg
 sous-categorie: Infusion
